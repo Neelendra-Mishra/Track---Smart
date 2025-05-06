@@ -10,12 +10,12 @@ It is designed to replicate basic spreadsheet functionality, such as what you mi
 
 ## 📁 Project Structure
 
-- `spreadsheet.c` — Main program containing the menu and app control flow.
-- `data.c` — Handles reading/parsing of the input file.
-- `ordering.c` — Contains sorting functions based on different fields.
-- `calc.c` — Performs grade calculations, histogram generation, and record updates.
-- `*.h` — Header files for modular design and function declarations.
-- `students.txt` — Input data file that must exist before execution.
+- `spreadsheet.c` Main program containing the menu and app control flow.
+- `data.c` Handles reading/parsing of the input file.
+- `ordering.c` Contains sorting functions based on different fields.
+- `calc.c` Performs grade calculations, histogram generation, and record updates.
+- `*.h` Header files for modular design and function declarations.
+- `students.txt` Input data file that must exist before execution.
 
 ---
 
