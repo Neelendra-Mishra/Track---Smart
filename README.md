@@ -61,5 +61,3 @@ The program:
 - **Compiler**: GCC
 - **Environment**: VS Code (with GCC), Docker
 - **Tools**:`valgrind`, `gdb`
-- 
-
