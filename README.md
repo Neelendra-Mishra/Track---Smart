@@ -6,7 +6,7 @@ This C-based terminal application simulates a simple spreadsheet system to help 
 It reads a structured file containing grade data, performs calculations, allows sorting and editing, and provides visual outputs like histograms.
 It is designed to replicate basic spreadsheet functionality, such as what you might find in a simplified version of Excel.
 
---
+---
 
 ## 📁 Project Structure
 
