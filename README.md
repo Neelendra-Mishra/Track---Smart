@@ -60,5 +60,6 @@ The program:
 - **Language**: C
 - **Compiler**: GCC
 - **Environment**: VS Code (with GCC), Docker
-- **Tools**: Valgrind (for memory leak checks), GDB (for debugging)
+- **Tools**:`valgrind`, `gdb`
+- 
 
