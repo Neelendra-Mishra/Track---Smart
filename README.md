@@ -38,9 +38,9 @@ It is designed to replicate basic spreadsheet functionality, such as what you mi
 
 - **Structs & Dynamic Memory Allocation**
 - **Modular Programming** (with multiple `.c` and `.h` files)
-- **File I/O** using 
+- **File I/O**
 - **Sorting Algorithms** 
-- **Input Validation** for user entries
+- **Input Validation** 
 - **Console Output Formatting** (aligned columns, headers, ASCII histogram)
 
 ---
