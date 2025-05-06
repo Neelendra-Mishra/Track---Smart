@@ -41,7 +41,7 @@ It is designed to replicate basic spreadsheet functionality, such as what you mi
 - **File I/O**
 - **Sorting Algorithms** 
 - **Input Validation** 
-- **Console Output Formatting** (aligned columns, headers, ASCII histogram)
+- **Console Output Formatting** (`aligned columns, headers, ASCII histogram`)
 
 ---
 
